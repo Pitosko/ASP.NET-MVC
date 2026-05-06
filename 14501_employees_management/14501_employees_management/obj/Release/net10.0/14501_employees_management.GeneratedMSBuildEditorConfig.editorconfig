@@ -11,45 +11,45 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = EmployeesManagement
 build_property.RootNamespace = EmployeesManagement
-build_property.ProjectDir = C:\Users\jafon\Downloads\14474_employees_management\14501_employees_management\
+build_property.ProjectDir = C:\Users\jafon\Downloads\14501_employees_management\14501_employees_management\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\jafon\Downloads\14474_employees_management\14501_employees_management
+build_property.MSBuildProjectDirectory = C:\Users\jafon\Downloads\14501_employees_management\14501_employees_management
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 10.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/jafon/Downloads/14474_employees_management/14501_employees_management/Views/Employees/Create.cshtml]
+[C:/Users/jafon/Downloads/14501_employees_management/14501_employees_management/Views/Employees/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jafon/Downloads/14474_employees_management/14501_employees_management/Views/Employees/Delete.cshtml]
+[C:/Users/jafon/Downloads/14501_employees_management/14501_employees_management/Views/Employees/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jafon/Downloads/14474_employees_management/14501_employees_management/Views/Employees/Details.cshtml]
+[C:/Users/jafon/Downloads/14501_employees_management/14501_employees_management/Views/Employees/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jafon/Downloads/14474_employees_management/14501_employees_management/Views/Employees/Edit.cshtml]
+[C:/Users/jafon/Downloads/14501_employees_management/14501_employees_management/Views/Employees/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jafon/Downloads/14474_employees_management/14501_employees_management/Views/Employees/Index.cshtml]
+[C:/Users/jafon/Downloads/14501_employees_management/14501_employees_management/Views/Employees/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jafon/Downloads/14474_employees_management/14501_employees_management/Views/Shared/_Layout.cshtml]
+[C:/Users/jafon/Downloads/14501_employees_management/14501_employees_management/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jafon/Downloads/14474_employees_management/14501_employees_management/Views/_ViewImports.cshtml]
+[C:/Users/jafon/Downloads/14501_employees_management/14501_employees_management/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jafon/Downloads/14474_employees_management/14501_employees_management/Views/_ViewStart.cshtml]
+[C:/Users/jafon/Downloads/14501_employees_management/14501_employees_management/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

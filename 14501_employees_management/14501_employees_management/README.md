@@ -1,8 +1,8 @@
-# 14474 Employees Management
+# 14501 Employees Management
 
 ## Setup
 1. Garante que o SQL Server Docker está a correr: `docker ps` (container `sqlserver`)
-2. `cd 14474_employees_management`
+2. `cd 14501_employees_management`
 3. `dotnet restore`
 4. `dotnet ef migrations add InitialCreate`
 5. `dotnet ef database update`
