@@ -13,7 +13,9 @@
   <a href="/" class="brand-link"><span class="brand-text font-weight-light">14501 Employees</span></a>
   <div class="sidebar"><nav class="mt-2"><ul class="nav nav-pills nav-sidebar flex-column" data-widget="treeview" role="menu">
    <li class="nav-item"><a asp-controller="Employees" asp-action="Index" class="nav-link"><i class="nav-icon fas fa-users"></i><p>Employees</p></a></li>
-   <li class="nav-item"><a asp-controller="Employees" asp-action="Create" class="nav-link"><i class="nav-icon fas fa-plus"></i><p>Add New</p></a></li>
+   <li class="nav-item"><a asp-controller="Employees" asp-action="Create" class="nav-link"><i class="nav-icon fas fa-plus"></i><p>Add New Employee</p></a></li>
+   <li class="nav-item"><a asp-controller="Instruments" asp-action="Index" class="nav-link"><i class="nav-icon fas fa-guitar"></i><p>Instruments</p></a></li>
+   <li class="nav-item"><a asp-controller="Instruments" asp-action="Create" class="nav-link"><i class="nav-icon fas fa-plus"></i><p>Add New Instrument</p></a></li>
   </ul></nav></div>
  </aside>
  <div class="content-wrapper"><section class="content pt-3"><div class="container-fluid">@RenderBody()</div></section></div>

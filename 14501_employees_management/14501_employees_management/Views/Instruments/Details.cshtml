@@ -1,0 +1,11 @@
+@model EmployeesManagement.Models.Instrument
+@{ ViewData["Title"]="Details"; }
+<div class="card"><div class="card-header"><h3>Instrument Details</h3></div><div class="card-body">
+<dl class="row">
+<dt class="col-sm-3">Instrument Type</dt><dd class="col-sm-9">@Model.TipoInstrumento</dd>
+<dt class="col-sm-3">Instrument Name</dt><dd class="col-sm-9">@Model.Nome</dd>
+<dt class="col-sm-3">Uses Strings?</dt><dd class="col-sm-9">@(Model.UsaCordas ? "Yes" : "No")</dd>
+</dl>
+<a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-primary">Edit</a>
+<a asp-action="Index" class="btn btn-secondary">Back</a>
+</div></div>

@@ -1,5 +1,12 @@
 using System.ComponentModel.DataAnnotations;
 namespace EmployeesManagement.Models;
+
+public enum Function {
+    Administration,
+    Engineer,
+    Worker
+}
+
 public class Employee : UserActivity {
     public int Id { get; set; }
     [Required] public string EmpNumber { get; set; } = "";
@@ -12,6 +19,6 @@ public class Employee : UserActivity {
     public string Country { get; set; } = "";
     [DataType(DataType.Date)] public DateTime DateOfBirth { get; set; }
     public string Address { get; set; } = "";
-    public string Department { get; set; } = "";
+    [Required] public Function Function { get; set; }
     public string Designation { get; set; } = "";
 }
